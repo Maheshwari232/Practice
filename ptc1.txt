@@ -1,3 +1,2 @@
-this is 
-This is a new file created by remote repo
-again and  
+I created and changed to another repository and created new repo 
+This is a new file created by remote repo 
